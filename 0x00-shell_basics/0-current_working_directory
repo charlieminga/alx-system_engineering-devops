@@ -1,6 +1,2 @@
-#!/bin/bas
-$ ./0-current_working_directory
-root@ebf9084a8e44:~/alx-system_engineering-devops/0x00-shell_basics#
-$
-
-
+#!/bin/bash
+/alx-system_engineering-devops/0x00-shell_basics#
