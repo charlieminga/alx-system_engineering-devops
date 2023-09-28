@@ -1,0 +1,3 @@
+#!/bin/bash
+cp --parents $(find . -type f -name "*.html" -newer "pwd/../""
+
